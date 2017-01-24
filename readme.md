@@ -1,0 +1,1 @@
+This folder is set up to organize the various assignments and projects contained in the Coding Dojo curriculum.
