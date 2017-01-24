@@ -1,0 +1,6 @@
+Result of the "dir /b /s" command sequence in the windows environment, as excicuted for the last assignment instruction. {j.sanders}
+The "dir /b /s" command appears to return an inventory of the directory
+
+C:\Users\jasand\Desktop\DojoAssignments\WebFundamentals\HTML>dir /b /s
+C:\Users\jasand\Desktop\DojoAssignments\WebFundamentals\HTML\about.txt
+C:\Users\jasand\Desktop\DojoAssignments\WebFundamentals\HTML\indentation.html
